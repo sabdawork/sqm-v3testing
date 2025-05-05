@@ -2,7 +2,6 @@
   "name": "@v3testing/gp-website",
   "version": "0.0.1",
   "private": true,
-  "packageManager": "pnpm@9.12.3",
   "dependencies": {
     "next": "~15.2.4",
     "react": "19.0.0",
